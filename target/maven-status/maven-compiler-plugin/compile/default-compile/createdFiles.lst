@@ -1,0 +1,7 @@
+config\DBConn.class
+model\Publicacion.class
+database\UsuarioDAO.class
+controller\UsuarioController.class
+database\PublicacionDAO.class
+model\Usuario.class
+controller\PublicacionController.class
